@@ -1,0 +1,9 @@
+com\monali\nimap\test\controller\ProductController.class
+com\monali\nimap\test\repository\CategoryRepository.class
+com\monali\nimap\test\service\ProductService.class
+com\monali\nimap\test\controller\CategoryController.class
+com\monali\nimap\test\repository\ProductRepository.class
+com\monali\nimap\test\Application.class
+com\monali\nimap\test\entity\Product.class
+com\monali\nimap\test\entity\Category.class
+com\monali\nimap\test\service\CategoryService.class
